@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_components_hardware",
+  "info": {
+    "displayName": "Hardware",
+    "icon": "command"
+  },
+  "options": {},
+  "attributes": {
+    "AlcoreProcessor": {
+      "type": "string"
+    },
+    "NeuralNetChip": {
+      "type": "string"
+    },
+    "DeepBrainAccelerator": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_components_analytics",
+  "info": {
+    "displayName": "Analytics",
+    "icon": "manyWays"
+  },
+  "options": {},
+  "attributes": {
+    "DatasenseAI": {
+      "type": "string"
+    },
+    "InsightIQ": {
+      "type": "string"
+    },
+    "DatawiseAI": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_components_navitems",
+  "info": {
+    "displayName": "navitems"
+  },
+  "options": {},
+  "attributes": {
+    "AIBots": {
+      "displayName": "chatbots",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.chatbots"
+    },
+    "Analytics": {
+      "displayName": "Analytics",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.analytics"
+    },
+    "Hardware": {
+      "displayName": "Hardware",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.hardware"
+    }
+  }
+}

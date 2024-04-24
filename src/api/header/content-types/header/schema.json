@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "headers",
+  "info": {
+    "singularName": "header",
+    "pluralName": "headers",
+    "displayName": "header",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "StrapiAI": {
+      "type": "string",
+      "unique": true
+    },
+    "Products": {
+      "displayName": "navitems",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.navitems"
+    },
+    "Try": {
+      "type": "string"
+    }
+  }
+}

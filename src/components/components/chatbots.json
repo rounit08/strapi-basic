@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_components_chatbots",
+  "info": {
+    "displayName": "chatbots",
+    "icon": "gate"
+  },
+  "options": {},
+  "attributes": {
+    "Meta_Llama": {
+      "type": "string"
+    },
+    "ChatGPT": {
+      "type": "string"
+    },
+    "Perplexity": {
+      "type": "string"
+    },
+    "Codeium": {
+      "type": "string"
+    }
+  }
+}
